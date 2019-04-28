@@ -1,7 +1,7 @@
 # css_effects
 
 ## General info
-This is site on which I have learnt how to implement some css effects for "animate" images.
+This is site on which I have learnt how to implement some css effects to animate images.
 
 ## Technologies
 HTML5
